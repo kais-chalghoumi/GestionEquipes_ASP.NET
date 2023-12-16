@@ -1,0 +1,17 @@
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.AssemblyInfo.cs
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.Infrastructure.deps.json
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.Infrastructure.runtimeconfig.json
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.ApplicationCore.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\bin\Debug\net6.0\GestionEquipes.ApplicationCore.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.csproj.CopyComplete
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\refint\GestionEquipes.Infrastructure.dll
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.pdb
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\GestionEquipes.Infrastructure.genruntimeconfig.cache
+C:\Users\chalg\OneDrive\Bureau\.NET\GestionEquipes_ASP.NET\GestionEquipes.Infrastructure\obj\Debug\net6.0\ref\GestionEquipes.Infrastructure.dll
